@@ -9,11 +9,9 @@ Treinamento Hands-on na plataforma Databricks com foco nas funcionalidades de IA
 
 | # | Tópicos | Duração |
 | -- | -- | -- |
-| 01 | Introdução a plataforma Databricks e ao Genie AI/BI + Dashboards                   | 60 min |
-| 02 | Laboratório 01 - Importando os dados                                               | 30 min |
-| 03 | Laboratório 02 - Análise de sentimento, extração de entidades e geração de texto   | 40 min |
-| 04 | Laboratório 03 - Usando Agentes                                                    | 40 min |
-| 05 | Perguntas e Respostas                                                              | 10 min |
+| 01 | Laboratório 01 - Importando os dados                                               | 20 min |
+| 02 | Laboratório 02 - Análise de sentimento, extração de entidades e geração de texto   | 45 min |
+| 03 | Laboratório 03 - Usando Agentes                                                    | 45 min |
 
 
 </br>

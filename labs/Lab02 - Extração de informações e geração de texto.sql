@@ -261,7 +261,7 @@ SELECT *, resultado.* FROM (
 
 -- COMMAND ----------
 
--- MAGIC %md ### 5. Analisando os dados enriquecidos
+-- MAGIC %md ### (Opcional) 5. Analisando os dados enriquecidos
 -- MAGIC
 -- MAGIC Com as informações extraídas nos laboratórios anteriores, nossos times de negócio podem aproveitar para analisar as avaliações de produtos facilmente – já que agora temos todos os dados estruturados dentro de uma simples tabela.
 -- MAGIC
@@ -274,7 +274,7 @@ SELECT *, resultado.* FROM (
 
 -- COMMAND ----------
 
--- MAGIC %md #### A. Criando a Genie
+-- MAGIC %md #### (Opcional) A. Criando a Genie
 -- MAGIC
 -- MAGIC Vamos começar criando a Genie para fazer nossas perguntas. Para isso, vamos seguir os passos abaixo:
 -- MAGIC
@@ -292,7 +292,7 @@ SELECT *, resultado.* FROM (
 
 -- COMMAND ----------
 
--- MAGIC %md #### B. Fazendo perguntas à Genie
+-- MAGIC %md #### (Opcional) B. Fazendo perguntas à Genie
 -- MAGIC
 -- MAGIC Com nossa Genie preparada, podemos começar a construir nossas análises!
 -- MAGIC
